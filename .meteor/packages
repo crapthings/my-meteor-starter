@@ -41,3 +41,5 @@ reywood:publish-composite
 tmeasday:publish-counts
 
 aldeed:simple-schema
+jcbernack:reactive-aggregate
+stylus
