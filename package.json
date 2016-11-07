@@ -11,6 +11,7 @@
     "lodash": "^4.16.4",
     "meteor-node-stubs": "~0.2.0",
     "moment": "^2.15.1",
+    "randomcolor": "^0.4.4",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-komposer": "^1.13.1",
